@@ -1,1 +1,1 @@
-
+const get = 'nowa'
